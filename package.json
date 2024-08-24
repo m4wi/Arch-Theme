@@ -2,7 +2,7 @@
   "name": "arch-darker",
   "displayName": "Arch-Darker",
   "description": "Custom VS Code theme based on Ayu",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "m4wi",
   "repository": {
     "type": "git",
