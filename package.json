@@ -1,0 +1,32 @@
+{
+  "name": "arch-darker",
+  "displayName": "Arch-Darker",
+  "description": "Custom VS Code theme based on Ayu",
+  "version": "0.0.1",
+  "publisher": "m4wi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m4wi/Arch-Theme"
+  },
+  "keywords": [
+    "arch",
+    "dark-theme",
+    "dark",
+    "monochromatic"
+  ],
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "m4wi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/m4wi-color-theme.json"
+      }
+    ]
+  }
+}
