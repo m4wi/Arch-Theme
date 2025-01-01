@@ -1,13 +1,14 @@
 {
   "name": "Arch-Darker",
-  "displayName": "Arch-Darker",
+  "displayName": "Crowveil",
   "description": "Custom VS Code theme based on Ayu",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "publisher": "Arch-Darker",
   "repository": {
     "type": "git",
     "url": "https://github.com/m4wi/Arch-Theme"
   },
+  "icon": "icon.png",
   "keywords": [
     "arch",
     "dark-theme",
@@ -23,9 +24,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "m4wi",
+        "label": "Ayu Modified",
         "uiTheme": "vs-dark",
-        "path": "./themes/m4wi-color-theme.json"
+        "path": "./themes/crowveil-ayu-theme.json"
+      },
+      {
+        "label": "Tokyo Modified",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crowveil-tokyo-theme.json"
       }
     ]
   }

@@ -1,5 +1,6 @@
 {
-	"type": "mono",
+	"name": "Crowveil - Ayu",
+	"type": "dark",
 	"colors": {
 		"focusBorder": "#c5c5c5",
 		"foreground": "#c5c5c5",
